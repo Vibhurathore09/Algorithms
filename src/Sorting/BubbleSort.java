@@ -1,3 +1,5 @@
+package Sorting;
+
 public class BubbleSort
 {
     void BubbleSort(int arr[]) // Complexity BigO(n^2)

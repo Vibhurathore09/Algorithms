@@ -1,3 +1,5 @@
+package Sorting;
+
 public class InsertionSort
 {
     void insertionSort(int arr[]) // Complexity O(n^2)
